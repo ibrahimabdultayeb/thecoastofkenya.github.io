@@ -220,12 +220,6 @@ header .logo
   .logo{
     font-size: 1.3em;
   }
-  .menu ul li a
-  {
-    text-decoration: none;
-    font-size: 25px;
-    color: #fff;
-  }
 }
 
 #locations

@@ -493,6 +493,7 @@ header .logo
   background: #03a9f4;
   margin: auto;
   border-radius: 100px;
+  padding-top: 20px;
 }
 
 #locationtitle h1
@@ -504,7 +505,7 @@ header .logo
   text-transform: uppercase;
   padding-bottom: 20px;
   letter-spacing: 1px;
-  padding: 20px 100px;
+  padding: 0px 100px;
 }
 
 @media (max-width: 798px)

@@ -1,1 +1,0 @@
-# thecoastofkenya.github.io
